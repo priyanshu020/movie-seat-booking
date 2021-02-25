@@ -7,3 +7,5 @@ This application helps you pick the seats and the movie and stores it in the loc
 The seats are color-coded for the availability and also it shows how many seats you have selected with the total price.
   
 ## Deployment
+
+https://your-movie-seat-booking.netlify.app/
